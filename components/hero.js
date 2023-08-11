@@ -35,14 +35,6 @@ const Hero = () => {
               className="w-48 gap-10 bg-white  rounded-l-lg h-20"
             >
               Location
-              <image
-                classNames="h-6 w-6"
-                src="/location.png"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                strokeWidth="2"
-              ></image>
             </button>
             <button type="button" className="w-48 gap-10 bg-white">
               Date
